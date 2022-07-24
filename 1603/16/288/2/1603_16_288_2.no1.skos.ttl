@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:288()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:101" ;
     skos:prefLabel "Asunafo North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -299,7 +297,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1001" ;
     skos:prefLabel "Biakoye"@eng-Latn ;
-    wdata:q7200235 "GH1001" ;
 .
 
 <urn:mdciii:1603:16:288:2:1002>
@@ -308,7 +305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1002" ;
     skos:prefLabel "Jasikan"@eng-Latn ;
-    wdata:q7200235 "GH1002" ;
 .
 
 <urn:mdciii:1603:16:288:2:1003>
@@ -317,7 +313,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1003" ;
     skos:prefLabel "Kadjebi"@eng-Latn ;
-    wdata:q7200235 "GH1003" ;
 .
 
 <urn:mdciii:1603:16:288:2:1004>
@@ -326,7 +321,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1004" ;
     skos:prefLabel "Krachi East Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1004" ;
 .
 
 <urn:mdciii:1603:16:288:2:1005>
@@ -335,7 +329,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1005" ;
     skos:prefLabel "Krachi Nchumuru"@eng-Latn ;
-    wdata:q7200235 "GH1005" ;
 .
 
 <urn:mdciii:1603:16:288:2:1006>
@@ -344,7 +337,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1006" ;
     skos:prefLabel "Krachi West"@eng-Latn ;
-    wdata:q7200235 "GH1006" ;
 .
 
 <urn:mdciii:1603:16:288:2:1007>
@@ -353,7 +345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1007" ;
     skos:prefLabel "Nkwanta North"@eng-Latn ;
-    wdata:q7200235 "GH1007" ;
 .
 
 <urn:mdciii:1603:16:288:2:1008>
@@ -362,7 +353,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1008" ;
     skos:prefLabel "Nkwanta South Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1008" ;
 .
 
 <urn:mdciii:1603:16:288:2:102>
@@ -371,7 +361,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:102" ;
     skos:prefLabel "Asunafo South"@eng-Latn ;
-    wdata:q7200235 "GH0102" ;
 .
 
 <urn:mdciii:1603:16:288:2:103>
@@ -380,7 +369,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:103" ;
     skos:prefLabel "Asutifi North"@eng-Latn ;
-    wdata:q7200235 "GH0103" ;
 .
 
 <urn:mdciii:1603:16:288:2:104>
@@ -389,7 +377,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:104" ;
     skos:prefLabel "Asutifi South"@eng-Latn ;
-    wdata:q7200235 "GH0104" ;
 .
 
 <urn:mdciii:1603:16:288:2:105>
@@ -398,7 +385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:105" ;
     skos:prefLabel "Tano North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0105" ;
 .
 
 <urn:mdciii:1603:16:288:2:106>
@@ -407,7 +393,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:106" ;
     skos:prefLabel "Tano South Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0106" ;
 .
 
 <urn:mdciii:1603:16:288:2:1101>
@@ -416,7 +401,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1101" ;
     skos:prefLabel "Bole"@eng-Latn ;
-    wdata:q7200235 "GH1101" ;
 .
 
 <urn:mdciii:1603:16:288:2:1102>
@@ -425,7 +409,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1102" ;
     skos:prefLabel "Central Gonja"@eng-Latn ;
-    wdata:q7200235 "GH1102" ;
 .
 
 <urn:mdciii:1603:16:288:2:1103>
@@ -434,7 +417,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1103" ;
     skos:prefLabel "East Gonja Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1103" ;
 .
 
 <urn:mdciii:1603:16:288:2:1104>
@@ -443,7 +425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1104" ;
     skos:prefLabel "North East Gonja"@eng-Latn ;
-    wdata:q7200235 "GH1104" ;
 .
 
 <urn:mdciii:1603:16:288:2:1105>
@@ -452,7 +433,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1105" ;
     skos:prefLabel "North Gonja"@eng-Latn ;
-    wdata:q7200235 "GH1105" ;
 .
 
 <urn:mdciii:1603:16:288:2:1106>
@@ -461,7 +441,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1106" ;
     skos:prefLabel "Sawla-Tuna-Kalba"@eng-Latn ;
-    wdata:q7200235 "GH1106" ;
 .
 
 <urn:mdciii:1603:16:288:2:1107>
@@ -470,7 +449,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1107" ;
     skos:prefLabel "West Gonja"@eng-Latn ;
-    wdata:q7200235 "GH1107" ;
 .
 
 <urn:mdciii:1603:16:288:2:1201>
@@ -479,7 +457,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1201" ;
     skos:prefLabel "Bawku Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1201" ;
 .
 
 <urn:mdciii:1603:16:288:2:1202>
@@ -488,7 +465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1202" ;
     skos:prefLabel "Bawku West"@eng-Latn ;
-    wdata:q7200235 "GH1202" ;
 .
 
 <urn:mdciii:1603:16:288:2:1203>
@@ -497,7 +473,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1203" ;
     skos:prefLabel "Binduri"@eng-Latn ;
-    wdata:q7200235 "GH1203" ;
 .
 
 <urn:mdciii:1603:16:288:2:1204>
@@ -506,7 +481,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1204" ;
     skos:prefLabel "Bolga  East"@eng-Latn ;
-    wdata:q7200235 "GH1204" ;
 .
 
 <urn:mdciii:1603:16:288:2:1205>
@@ -515,7 +489,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1205" ;
     skos:prefLabel "Bolgatanga Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1205" ;
 .
 
 <urn:mdciii:1603:16:288:2:1206>
@@ -524,7 +497,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1206" ;
     skos:prefLabel "Bongo"@eng-Latn ;
-    wdata:q7200235 "GH1206" ;
 .
 
 <urn:mdciii:1603:16:288:2:1207>
@@ -533,7 +505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1207" ;
     skos:prefLabel "Builsa North"@eng-Latn ;
-    wdata:q7200235 "GH1207" ;
 .
 
 <urn:mdciii:1603:16:288:2:1208>
@@ -542,7 +513,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1208" ;
     skos:prefLabel "Builsa South"@eng-Latn ;
-    wdata:q7200235 "GH1208" ;
 .
 
 <urn:mdciii:1603:16:288:2:1209>
@@ -551,7 +521,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1209" ;
     skos:prefLabel "Garu"@eng-Latn ;
-    wdata:q7200235 "GH1209" ;
 .
 
 <urn:mdciii:1603:16:288:2:1210>
@@ -560,7 +529,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1210" ;
     skos:prefLabel "Kasena Nankana East"@eng-Latn ;
-    wdata:q7200235 "GH1210" ;
 .
 
 <urn:mdciii:1603:16:288:2:1211>
@@ -569,7 +537,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1211" ;
     skos:prefLabel "Kasena Nankana West"@eng-Latn ;
-    wdata:q7200235 "GH1211" ;
 .
 
 <urn:mdciii:1603:16:288:2:1212>
@@ -578,7 +545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1212" ;
     skos:prefLabel "Nabdam"@eng-Latn ;
-    wdata:q7200235 "GH1212" ;
 .
 
 <urn:mdciii:1603:16:288:2:1213>
@@ -587,7 +553,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1213" ;
     skos:prefLabel "Pusiga"@eng-Latn ;
-    wdata:q7200235 "GH1213" ;
 .
 
 <urn:mdciii:1603:16:288:2:1214>
@@ -596,7 +561,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1214" ;
     skos:prefLabel "Talensi"@eng-Latn ;
-    wdata:q7200235 "GH1214" ;
 .
 
 <urn:mdciii:1603:16:288:2:1215>
@@ -605,7 +569,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1215" ;
     skos:prefLabel "Tempane"@eng-Latn ;
-    wdata:q7200235 "GH1215" ;
 .
 
 <urn:mdciii:1603:16:288:2:1301>
@@ -614,7 +577,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1301" ;
     skos:prefLabel "Daffiama Bussie Issa"@eng-Latn ;
-    wdata:q7200235 "GH1301" ;
 .
 
 <urn:mdciii:1603:16:288:2:1302>
@@ -623,7 +585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1302" ;
     skos:prefLabel "Jirapa"@eng-Latn ;
-    wdata:q7200235 "GH1302" ;
 .
 
 <urn:mdciii:1603:16:288:2:1303>
@@ -632,7 +593,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1303" ;
     skos:prefLabel "Lambussie-Karni"@eng-Latn ;
-    wdata:q7200235 "GH1303" ;
 .
 
 <urn:mdciii:1603:16:288:2:1304>
@@ -641,7 +601,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1304" ;
     skos:prefLabel "Lawra"@eng-Latn ;
-    wdata:q7200235 "GH1304" ;
 .
 
 <urn:mdciii:1603:16:288:2:1305>
@@ -650,7 +609,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1305" ;
     skos:prefLabel "Nadowli-Kaleo"@eng-Latn ;
-    wdata:q7200235 "GH1305" ;
 .
 
 <urn:mdciii:1603:16:288:2:1306>
@@ -659,7 +617,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1306" ;
     skos:prefLabel "Nandom"@eng-Latn ;
-    wdata:q7200235 "GH1306" ;
 .
 
 <urn:mdciii:1603:16:288:2:1307>
@@ -668,7 +625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1307" ;
     skos:prefLabel "Sissala East"@eng-Latn ;
-    wdata:q7200235 "GH1307" ;
 .
 
 <urn:mdciii:1603:16:288:2:1308>
@@ -677,7 +633,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1308" ;
     skos:prefLabel "Sissala West"@eng-Latn ;
-    wdata:q7200235 "GH1308" ;
 .
 
 <urn:mdciii:1603:16:288:2:1309>
@@ -686,7 +641,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1309" ;
     skos:prefLabel "Wa East"@eng-Latn ;
-    wdata:q7200235 "GH1309" ;
 .
 
 <urn:mdciii:1603:16:288:2:1310>
@@ -695,7 +649,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1310" ;
     skos:prefLabel "Wa Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1310" ;
 .
 
 <urn:mdciii:1603:16:288:2:1311>
@@ -704,7 +657,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1311" ;
     skos:prefLabel "Wa West"@eng-Latn ;
-    wdata:q7200235 "GH1311" ;
 .
 
 <urn:mdciii:1603:16:288:2:1401>
@@ -713,7 +665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1401" ;
     skos:prefLabel "Adaklu"@eng-Latn ;
-    wdata:q7200235 "GH1401" ;
 .
 
 <urn:mdciii:1603:16:288:2:1402>
@@ -722,7 +673,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1402" ;
     skos:prefLabel "Afadzato South"@eng-Latn ;
-    wdata:q7200235 "GH1402" ;
 .
 
 <urn:mdciii:1603:16:288:2:1403>
@@ -731,7 +681,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1403" ;
     skos:prefLabel "Agotime Ziope"@eng-Latn ;
-    wdata:q7200235 "GH1403" ;
 .
 
 <urn:mdciii:1603:16:288:2:1404>
@@ -740,7 +689,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1404" ;
     skos:prefLabel "Akatsi North"@eng-Latn ;
-    wdata:q7200235 "GH1404" ;
 .
 
 <urn:mdciii:1603:16:288:2:1405>
@@ -749,7 +697,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1405" ;
     skos:prefLabel "Akatsi South"@eng-Latn ;
-    wdata:q7200235 "GH1405" ;
 .
 
 <urn:mdciii:1603:16:288:2:1406>
@@ -758,7 +705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1406" ;
     skos:prefLabel "Anloga"@eng-Latn ;
-    wdata:q7200235 "GH1406" ;
 .
 
 <urn:mdciii:1603:16:288:2:1407>
@@ -767,7 +713,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1407" ;
     skos:prefLabel "Central Tongu"@eng-Latn ;
-    wdata:q7200235 "GH1407" ;
 .
 
 <urn:mdciii:1603:16:288:2:1408>
@@ -776,7 +721,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1408" ;
     skos:prefLabel "Ho Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1408" ;
 .
 
 <urn:mdciii:1603:16:288:2:1409>
@@ -785,7 +729,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1409" ;
     skos:prefLabel "Ho West"@eng-Latn ;
-    wdata:q7200235 "GH1409" ;
 .
 
 <urn:mdciii:1603:16:288:2:1410>
@@ -794,7 +737,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1410" ;
     skos:prefLabel "Hohoe Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1410" ;
 .
 
 <urn:mdciii:1603:16:288:2:1411>
@@ -803,7 +745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1411" ;
     skos:prefLabel "Keta Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1411" ;
 .
 
 <urn:mdciii:1603:16:288:2:1412>
@@ -812,7 +753,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1412" ;
     skos:prefLabel "Ketu North"@eng-Latn ;
-    wdata:q7200235 "GH1412" ;
 .
 
 <urn:mdciii:1603:16:288:2:1413>
@@ -821,7 +761,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1413" ;
     skos:prefLabel "Ketu South"@eng-Latn ;
-    wdata:q7200235 "GH1413" ;
 .
 
 <urn:mdciii:1603:16:288:2:1414>
@@ -830,7 +769,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1414" ;
     skos:prefLabel "Kpando Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1414" ;
 .
 
 <urn:mdciii:1603:16:288:2:1415>
@@ -839,7 +777,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1415" ;
     skos:prefLabel "North Dayi"@eng-Latn ;
-    wdata:q7200235 "GH1415" ;
 .
 
 <urn:mdciii:1603:16:288:2:1416>
@@ -848,7 +785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1416" ;
     skos:prefLabel "North Tongu"@eng-Latn ;
-    wdata:q7200235 "GH1416" ;
 .
 
 <urn:mdciii:1603:16:288:2:1417>
@@ -857,7 +793,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1417" ;
     skos:prefLabel "South Dayi"@eng-Latn ;
-    wdata:q7200235 "GH1417" ;
 .
 
 <urn:mdciii:1603:16:288:2:1418>
@@ -866,7 +801,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1418" ;
     skos:prefLabel "South Tongu"@eng-Latn ;
-    wdata:q7200235 "GH1418" ;
 .
 
 <urn:mdciii:1603:16:288:2:1501>
@@ -875,7 +809,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1501" ;
     skos:prefLabel "Ahanta West Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1501" ;
 .
 
 <urn:mdciii:1603:16:288:2:1502>
@@ -884,7 +817,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1502" ;
     skos:prefLabel "Effia Kwesimintsim Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1502" ;
 .
 
 <urn:mdciii:1603:16:288:2:1503>
@@ -893,7 +825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1503" ;
     skos:prefLabel "Ellembelle"@eng-Latn ;
-    wdata:q7200235 "GH1503" ;
 .
 
 <urn:mdciii:1603:16:288:2:1504>
@@ -902,7 +833,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1504" ;
     skos:prefLabel "Jomoro"@eng-Latn ;
-    wdata:q7200235 "GH1504" ;
 .
 
 <urn:mdciii:1603:16:288:2:1505>
@@ -911,7 +841,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1505" ;
     skos:prefLabel "Mpohor"@eng-Latn ;
-    wdata:q7200235 "GH1505" ;
 .
 
 <urn:mdciii:1603:16:288:2:1506>
@@ -920,7 +849,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1506" ;
     skos:prefLabel "Nzema East"@eng-Latn ;
-    wdata:q7200235 "GH1506" ;
 .
 
 <urn:mdciii:1603:16:288:2:1507>
@@ -929,7 +857,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1507" ;
     skos:prefLabel "Prestea/Huni Valley"@eng-Latn ;
-    wdata:q7200235 "GH1507" ;
 .
 
 <urn:mdciii:1603:16:288:2:1508>
@@ -938,7 +865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1508" ;
     skos:prefLabel "Sekondi Takoradi Metropolis"@eng-Latn ;
-    wdata:q7200235 "GH1508" ;
 .
 
 <urn:mdciii:1603:16:288:2:1509>
@@ -947,7 +873,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1509" ;
     skos:prefLabel "Shama"@eng-Latn ;
-    wdata:q7200235 "GH1509" ;
 .
 
 <urn:mdciii:1603:16:288:2:1510>
@@ -956,7 +881,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1510" ;
     skos:prefLabel "Tarkwa Nsuaem"@eng-Latn ;
-    wdata:q7200235 "GH1510" ;
 .
 
 <urn:mdciii:1603:16:288:2:1511>
@@ -965,7 +889,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1511" ;
     skos:prefLabel "Wassa Amenfi Central"@eng-Latn ;
-    wdata:q7200235 "GH1511" ;
 .
 
 <urn:mdciii:1603:16:288:2:1512>
@@ -974,7 +897,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1512" ;
     skos:prefLabel "Wassa Amenfi East"@eng-Latn ;
-    wdata:q7200235 "GH1512" ;
 .
 
 <urn:mdciii:1603:16:288:2:1513>
@@ -983,7 +905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1513" ;
     skos:prefLabel "Wassa Amenfi West"@eng-Latn ;
-    wdata:q7200235 "GH1513" ;
 .
 
 <urn:mdciii:1603:16:288:2:1514>
@@ -992,7 +913,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1514" ;
     skos:prefLabel "Wassa East"@eng-Latn ;
-    wdata:q7200235 "GH1514" ;
 .
 
 <urn:mdciii:1603:16:288:2:1601>
@@ -1001,7 +921,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1601" ;
     skos:prefLabel "Aowin"@eng-Latn ;
-    wdata:q7200235 "GH1601" ;
 .
 
 <urn:mdciii:1603:16:288:2:1602>
@@ -1010,7 +929,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1602" ;
     skos:prefLabel "Bia East"@eng-Latn ;
-    wdata:q7200235 "GH1602" ;
 .
 
 <urn:mdciii:1603:16:288:2:1603>
@@ -1019,7 +937,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1603" ;
     skos:prefLabel "Bia West"@eng-Latn ;
-    wdata:q7200235 "GH1603" ;
 .
 
 <urn:mdciii:1603:16:288:2:1604>
@@ -1028,7 +945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1604" ;
     skos:prefLabel "Bibiani-Anhwiaso-Bekwai Municipal"@eng-Latn ;
-    wdata:q7200235 "GH1604" ;
 .
 
 <urn:mdciii:1603:16:288:2:1605>
@@ -1037,7 +953,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1605" ;
     skos:prefLabel "Bodi"@eng-Latn ;
-    wdata:q7200235 "GH1605" ;
 .
 
 <urn:mdciii:1603:16:288:2:1606>
@@ -1046,7 +961,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1606" ;
     skos:prefLabel "Juaboso"@eng-Latn ;
-    wdata:q7200235 "GH1606" ;
 .
 
 <urn:mdciii:1603:16:288:2:1607>
@@ -1055,7 +969,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1607" ;
     skos:prefLabel "Sefwi Akontombra"@eng-Latn ;
-    wdata:q7200235 "GH1607" ;
 .
 
 <urn:mdciii:1603:16:288:2:1608>
@@ -1064,7 +977,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1608" ;
     skos:prefLabel "Sefwi-Wiawso"@eng-Latn ;
-    wdata:q7200235 "GH1608" ;
 .
 
 <urn:mdciii:1603:16:288:2:1609>
@@ -1073,7 +985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:1609" ;
     skos:prefLabel "Suaman"@eng-Latn ;
-    wdata:q7200235 "GH1609" ;
 .
 
 <urn:mdciii:1603:16:288:2:201>
@@ -1082,7 +993,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:201" ;
     skos:prefLabel "Adansi Akrofuom"@eng-Latn ;
-    wdata:q7200235 "GH0201" ;
 .
 
 <urn:mdciii:1603:16:288:2:202>
@@ -1091,7 +1001,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:202" ;
     skos:prefLabel "Adansi Asokwa"@eng-Latn ;
-    wdata:q7200235 "GH0202" ;
 .
 
 <urn:mdciii:1603:16:288:2:203>
@@ -1100,7 +1009,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:203" ;
     skos:prefLabel "Adansi North"@eng-Latn ;
-    wdata:q7200235 "GH0203" ;
 .
 
 <urn:mdciii:1603:16:288:2:204>
@@ -1109,7 +1017,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:204" ;
     skos:prefLabel "Adansi South"@eng-Latn ;
-    wdata:q7200235 "GH0204" ;
 .
 
 <urn:mdciii:1603:16:288:2:205>
@@ -1118,7 +1025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:205" ;
     skos:prefLabel "Afigya Kwabre North"@eng-Latn ;
-    wdata:q7200235 "GH0205" ;
 .
 
 <urn:mdciii:1603:16:288:2:206>
@@ -1127,7 +1033,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:206" ;
     skos:prefLabel "Afigya Kwabre South"@eng-Latn ;
-    wdata:q7200235 "GH0206" ;
 .
 
 <urn:mdciii:1603:16:288:2:207>
@@ -1136,7 +1041,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:207" ;
     skos:prefLabel "Ahafo Ano North"@eng-Latn ;
-    wdata:q7200235 "GH0207" ;
 .
 
 <urn:mdciii:1603:16:288:2:208>
@@ -1145,7 +1049,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:208" ;
     skos:prefLabel "Ahafo Ano South East"@eng-Latn ;
-    wdata:q7200235 "GH0208" ;
 .
 
 <urn:mdciii:1603:16:288:2:209>
@@ -1154,7 +1057,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:209" ;
     skos:prefLabel "Ahafo Ano South West"@eng-Latn ;
-    wdata:q7200235 "GH0209" ;
 .
 
 <urn:mdciii:1603:16:288:2:210>
@@ -1163,7 +1065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:210" ;
     skos:prefLabel "Amansie Central"@eng-Latn ;
-    wdata:q7200235 "GH0210" ;
 .
 
 <urn:mdciii:1603:16:288:2:211>
@@ -1172,7 +1073,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:211" ;
     skos:prefLabel "Amansie South"@eng-Latn ;
-    wdata:q7200235 "GH0211" ;
 .
 
 <urn:mdciii:1603:16:288:2:212>
@@ -1181,7 +1081,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:212" ;
     skos:prefLabel "Amansie West"@eng-Latn ;
-    wdata:q7200235 "GH0212" ;
 .
 
 <urn:mdciii:1603:16:288:2:213>
@@ -1190,7 +1089,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:213" ;
     skos:prefLabel "Asante Akim Central Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0213" ;
 .
 
 <urn:mdciii:1603:16:288:2:214>
@@ -1199,7 +1097,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:214" ;
     skos:prefLabel "Asante Akim North"@eng-Latn ;
-    wdata:q7200235 "GH0214" ;
 .
 
 <urn:mdciii:1603:16:288:2:215>
@@ -1208,7 +1105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:215" ;
     skos:prefLabel "Asante Akim South"@eng-Latn ;
-    wdata:q7200235 "GH0215" ;
 .
 
 <urn:mdciii:1603:16:288:2:216>
@@ -1217,7 +1113,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:216" ;
     skos:prefLabel "Asokore Mampong Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0216" ;
 .
 
 <urn:mdciii:1603:16:288:2:217>
@@ -1226,7 +1121,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:217" ;
     skos:prefLabel "Asokwa  Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0217" ;
 .
 
 <urn:mdciii:1603:16:288:2:218>
@@ -1235,7 +1129,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:218" ;
     skos:prefLabel "Atwima Kwanwoma"@eng-Latn ;
-    wdata:q7200235 "GH0218" ;
 .
 
 <urn:mdciii:1603:16:288:2:219>
@@ -1244,7 +1137,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:219" ;
     skos:prefLabel "Atwima Mponua"@eng-Latn ;
-    wdata:q7200235 "GH0219" ;
 .
 
 <urn:mdciii:1603:16:288:2:220>
@@ -1253,7 +1145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:220" ;
     skos:prefLabel "Atwima Nwabiagya North"@eng-Latn ;
-    wdata:q7200235 "GH0220" ;
 .
 
 <urn:mdciii:1603:16:288:2:221>
@@ -1262,7 +1153,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:221" ;
     skos:prefLabel "Atwima Nwabiagya South"@eng-Latn ;
-    wdata:q7200235 "GH0221" ;
 .
 
 <urn:mdciii:1603:16:288:2:222>
@@ -1271,7 +1161,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:222" ;
     skos:prefLabel "Bekwai Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0222" ;
 .
 
 <urn:mdciii:1603:16:288:2:223>
@@ -1280,7 +1169,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:223" ;
     skos:prefLabel "Bosome Freho"@eng-Latn ;
-    wdata:q7200235 "GH0223" ;
 .
 
 <urn:mdciii:1603:16:288:2:224>
@@ -1289,7 +1177,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:224" ;
     skos:prefLabel "Bosomtwe"@eng-Latn ;
-    wdata:q7200235 "GH0224" ;
 .
 
 <urn:mdciii:1603:16:288:2:225>
@@ -1298,7 +1185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:225" ;
     skos:prefLabel "Ejisu Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0225" ;
 .
 
 <urn:mdciii:1603:16:288:2:226>
@@ -1307,7 +1193,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:226" ;
     skos:prefLabel "Ejura-Sekyedumase"@eng-Latn ;
-    wdata:q7200235 "GH0226" ;
 .
 
 <urn:mdciii:1603:16:288:2:227>
@@ -1316,7 +1201,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:227" ;
     skos:prefLabel "Juaben Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0227" ;
 .
 
 <urn:mdciii:1603:16:288:2:228>
@@ -1325,7 +1209,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:228" ;
     skos:prefLabel "Kumasi Metropolitan"@eng-Latn ;
-    wdata:q7200235 "GH0228" ;
 .
 
 <urn:mdciii:1603:16:288:2:229>
@@ -1334,7 +1217,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:229" ;
     skos:prefLabel "Kwabre East"@eng-Latn ;
-    wdata:q7200235 "GH0229" ;
 .
 
 <urn:mdciii:1603:16:288:2:230>
@@ -1343,7 +1225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:230" ;
     skos:prefLabel "Kwadaso Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0230" ;
 .
 
 <urn:mdciii:1603:16:288:2:231>
@@ -1352,7 +1233,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:231" ;
     skos:prefLabel "Mampong Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0231" ;
 .
 
 <urn:mdciii:1603:16:288:2:232>
@@ -1361,7 +1241,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:232" ;
     skos:prefLabel "Obuasi East"@eng-Latn ;
-    wdata:q7200235 "GH0232" ;
 .
 
 <urn:mdciii:1603:16:288:2:233>
@@ -1370,7 +1249,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:233" ;
     skos:prefLabel "Obuasi Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0233" ;
 .
 
 <urn:mdciii:1603:16:288:2:234>
@@ -1379,7 +1257,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:234" ;
     skos:prefLabel "Offinso Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0234" ;
 .
 
 <urn:mdciii:1603:16:288:2:235>
@@ -1388,7 +1265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:235" ;
     skos:prefLabel "Offinso North"@eng-Latn ;
-    wdata:q7200235 "GH0235" ;
 .
 
 <urn:mdciii:1603:16:288:2:236>
@@ -1397,7 +1273,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:236" ;
     skos:prefLabel "Oforikrom Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0236" ;
 .
 
 <urn:mdciii:1603:16:288:2:237>
@@ -1406,7 +1281,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:237" ;
     skos:prefLabel "Old Tafo Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0237" ;
 .
 
 <urn:mdciii:1603:16:288:2:238>
@@ -1415,7 +1289,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:238" ;
     skos:prefLabel "Sekyere Afram Plains North"@eng-Latn ;
-    wdata:q7200235 "GH0238" ;
 .
 
 <urn:mdciii:1603:16:288:2:239>
@@ -1424,7 +1297,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:239" ;
     skos:prefLabel "Sekyere Central"@eng-Latn ;
-    wdata:q7200235 "GH0239" ;
 .
 
 <urn:mdciii:1603:16:288:2:240>
@@ -1433,7 +1305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:240" ;
     skos:prefLabel "Sekyere East"@eng-Latn ;
-    wdata:q7200235 "GH0240" ;
 .
 
 <urn:mdciii:1603:16:288:2:241>
@@ -1442,7 +1313,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:241" ;
     skos:prefLabel "Sekyere Kumawu"@eng-Latn ;
-    wdata:q7200235 "GH0241" ;
 .
 
 <urn:mdciii:1603:16:288:2:242>
@@ -1451,7 +1321,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:242" ;
     skos:prefLabel "Sekyere South"@eng-Latn ;
-    wdata:q7200235 "GH0242" ;
 .
 
 <urn:mdciii:1603:16:288:2:243>
@@ -1460,7 +1329,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:243" ;
     skos:prefLabel "Suame Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0243" ;
 .
 
 <urn:mdciii:1603:16:288:2:301>
@@ -1469,7 +1337,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:301" ;
     skos:prefLabel "Banda"@eng-Latn ;
-    wdata:q7200235 "GH0301" ;
 .
 
 <urn:mdciii:1603:16:288:2:302>
@@ -1478,7 +1345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:302" ;
     skos:prefLabel "Berekum East Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0302" ;
 .
 
 <urn:mdciii:1603:16:288:2:303>
@@ -1487,7 +1353,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:303" ;
     skos:prefLabel "Berekum West"@eng-Latn ;
-    wdata:q7200235 "GH0303" ;
 .
 
 <urn:mdciii:1603:16:288:2:304>
@@ -1496,7 +1361,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:304" ;
     skos:prefLabel "Dormaa East"@eng-Latn ;
-    wdata:q7200235 "GH0304" ;
 .
 
 <urn:mdciii:1603:16:288:2:305>
@@ -1505,7 +1369,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:305" ;
     skos:prefLabel "Dormaa Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0305" ;
 .
 
 <urn:mdciii:1603:16:288:2:306>
@@ -1514,7 +1377,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:306" ;
     skos:prefLabel "Dormaa West"@eng-Latn ;
-    wdata:q7200235 "GH0306" ;
 .
 
 <urn:mdciii:1603:16:288:2:307>
@@ -1523,7 +1385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:307" ;
     skos:prefLabel "Jaman North"@eng-Latn ;
-    wdata:q7200235 "GH0307" ;
 .
 
 <urn:mdciii:1603:16:288:2:308>
@@ -1532,7 +1393,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:308" ;
     skos:prefLabel "Jaman South Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0308" ;
 .
 
 <urn:mdciii:1603:16:288:2:309>
@@ -1541,7 +1401,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:309" ;
     skos:prefLabel "Sunyani Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0309" ;
 .
 
 <urn:mdciii:1603:16:288:2:310>
@@ -1550,7 +1409,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:310" ;
     skos:prefLabel "Sunyani West"@eng-Latn ;
-    wdata:q7200235 "GH0310" ;
 .
 
 <urn:mdciii:1603:16:288:2:311>
@@ -1559,7 +1417,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:311" ;
     skos:prefLabel "Tain"@eng-Latn ;
-    wdata:q7200235 "GH0311" ;
 .
 
 <urn:mdciii:1603:16:288:2:312>
@@ -1568,7 +1425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:312" ;
     skos:prefLabel "Wenchi Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0312" ;
 .
 
 <urn:mdciii:1603:16:288:2:401>
@@ -1577,7 +1433,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:401" ;
     skos:prefLabel "Atebubu Amantin"@eng-Latn ;
-    wdata:q7200235 "GH0401" ;
 .
 
 <urn:mdciii:1603:16:288:2:402>
@@ -1586,7 +1441,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:402" ;
     skos:prefLabel "Kintampo North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0402" ;
 .
 
 <urn:mdciii:1603:16:288:2:403>
@@ -1595,7 +1449,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:403" ;
     skos:prefLabel "Kintampo South"@eng-Latn ;
-    wdata:q7200235 "GH0403" ;
 .
 
 <urn:mdciii:1603:16:288:2:404>
@@ -1604,7 +1457,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:404" ;
     skos:prefLabel "Nkoranza North"@eng-Latn ;
-    wdata:q7200235 "GH0404" ;
 .
 
 <urn:mdciii:1603:16:288:2:405>
@@ -1613,7 +1465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:405" ;
     skos:prefLabel "Nkoranza South"@eng-Latn ;
-    wdata:q7200235 "GH0405" ;
 .
 
 <urn:mdciii:1603:16:288:2:406>
@@ -1622,7 +1473,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:406" ;
     skos:prefLabel "Pru East"@eng-Latn ;
-    wdata:q7200235 "GH0406" ;
 .
 
 <urn:mdciii:1603:16:288:2:407>
@@ -1631,7 +1481,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:407" ;
     skos:prefLabel "Pru West"@eng-Latn ;
-    wdata:q7200235 "GH0407" ;
 .
 
 <urn:mdciii:1603:16:288:2:408>
@@ -1640,7 +1489,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:408" ;
     skos:prefLabel "Sene East"@eng-Latn ;
-    wdata:q7200235 "GH0408" ;
 .
 
 <urn:mdciii:1603:16:288:2:409>
@@ -1649,7 +1497,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:409" ;
     skos:prefLabel "Sene West"@eng-Latn ;
-    wdata:q7200235 "GH0409" ;
 .
 
 <urn:mdciii:1603:16:288:2:410>
@@ -1658,7 +1505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:410" ;
     skos:prefLabel "Techiman Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0410" ;
 .
 
 <urn:mdciii:1603:16:288:2:411>
@@ -1667,7 +1513,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:411" ;
     skos:prefLabel "Techiman North"@eng-Latn ;
-    wdata:q7200235 "GH0411" ;
 .
 
 <urn:mdciii:1603:16:288:2:501>
@@ -1676,7 +1521,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:501" ;
     skos:prefLabel "Abura-Asebu-Kwamankese"@eng-Latn ;
-    wdata:q7200235 "GH0501" ;
 .
 
 <urn:mdciii:1603:16:288:2:502>
@@ -1685,7 +1529,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:502" ;
     skos:prefLabel "Agona East"@eng-Latn ;
-    wdata:q7200235 "GH0502" ;
 .
 
 <urn:mdciii:1603:16:288:2:503>
@@ -1694,7 +1537,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:503" ;
     skos:prefLabel "Agona West Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0503" ;
 .
 
 <urn:mdciii:1603:16:288:2:504>
@@ -1703,7 +1545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:504" ;
     skos:prefLabel "Ajumako-Enyan-Essiam"@eng-Latn ;
-    wdata:q7200235 "GH0504" ;
 .
 
 <urn:mdciii:1603:16:288:2:505>
@@ -1712,7 +1553,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:505" ;
     skos:prefLabel "Asikuma-Odoben-Brakwa"@eng-Latn ;
-    wdata:q7200235 "GH0505" ;
 .
 
 <urn:mdciii:1603:16:288:2:506>
@@ -1721,7 +1561,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:506" ;
     skos:prefLabel "Assin Fosu"@eng-Latn ;
-    wdata:q7200235 "GH0506" ;
 .
 
 <urn:mdciii:1603:16:288:2:507>
@@ -1730,7 +1569,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:507" ;
     skos:prefLabel "Assin North"@eng-Latn ;
-    wdata:q7200235 "GH0507" ;
 .
 
 <urn:mdciii:1603:16:288:2:508>
@@ -1739,7 +1577,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:508" ;
     skos:prefLabel "Assin South"@eng-Latn ;
-    wdata:q7200235 "GH0508" ;
 .
 
 <urn:mdciii:1603:16:288:2:509>
@@ -1748,7 +1585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:509" ;
     skos:prefLabel "Awutu Senya"@eng-Latn ;
-    wdata:q7200235 "GH0509" ;
 .
 
 <urn:mdciii:1603:16:288:2:510>
@@ -1757,7 +1593,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:510" ;
     skos:prefLabel "Awutu Senya East"@eng-Latn ;
-    wdata:q7200235 "GH0510" ;
 .
 
 <urn:mdciii:1603:16:288:2:511>
@@ -1766,7 +1601,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:511" ;
     skos:prefLabel "Cape Coast Metropolitan"@eng-Latn ;
-    wdata:q7200235 "GH0511" ;
 .
 
 <urn:mdciii:1603:16:288:2:512>
@@ -1775,7 +1609,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:512" ;
     skos:prefLabel "Effutu Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0512" ;
 .
 
 <urn:mdciii:1603:16:288:2:513>
@@ -1784,7 +1617,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:513" ;
     skos:prefLabel "Ekumfi"@eng-Latn ;
-    wdata:q7200235 "GH0513" ;
 .
 
 <urn:mdciii:1603:16:288:2:514>
@@ -1793,7 +1625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:514" ;
     skos:prefLabel "Gomoa Central"@eng-Latn ;
-    wdata:q7200235 "GH0514" ;
 .
 
 <urn:mdciii:1603:16:288:2:515>
@@ -1802,7 +1633,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:515" ;
     skos:prefLabel "Gomoa East"@eng-Latn ;
-    wdata:q7200235 "GH0515" ;
 .
 
 <urn:mdciii:1603:16:288:2:516>
@@ -1811,7 +1641,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:516" ;
     skos:prefLabel "Gomoa West"@eng-Latn ;
-    wdata:q7200235 "GH0516" ;
 .
 
 <urn:mdciii:1603:16:288:2:517>
@@ -1820,7 +1649,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:517" ;
     skos:prefLabel "Komenda-Edina-Eguafo-Abirem Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0517" ;
 .
 
 <urn:mdciii:1603:16:288:2:518>
@@ -1829,7 +1657,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:518" ;
     skos:prefLabel "Mfantseman Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0518" ;
 .
 
 <urn:mdciii:1603:16:288:2:519>
@@ -1838,7 +1665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:519" ;
     skos:prefLabel "Twifo Atti-Morkwa"@eng-Latn ;
-    wdata:q7200235 "GH0519" ;
 .
 
 <urn:mdciii:1603:16:288:2:520>
@@ -1847,7 +1673,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:520" ;
     skos:prefLabel "Twifo Hemang Lower Denkyira"@eng-Latn ;
-    wdata:q7200235 "GH0520" ;
 .
 
 <urn:mdciii:1603:16:288:2:521>
@@ -1856,7 +1681,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:521" ;
     skos:prefLabel "Upper Denkyira East Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0521" ;
 .
 
 <urn:mdciii:1603:16:288:2:522>
@@ -1865,7 +1689,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:522" ;
     skos:prefLabel "Upper Denkyira West"@eng-Latn ;
-    wdata:q7200235 "GH0522" ;
 .
 
 <urn:mdciii:1603:16:288:2:601>
@@ -1874,7 +1697,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:601" ;
     skos:prefLabel "Abuakwa North"@eng-Latn ;
-    wdata:q7200235 "GH0601" ;
 .
 
 <urn:mdciii:1603:16:288:2:602>
@@ -1883,7 +1705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:602" ;
     skos:prefLabel "Abuakwa South"@eng-Latn ;
-    wdata:q7200235 "GH0602" ;
 .
 
 <urn:mdciii:1603:16:288:2:603>
@@ -1892,7 +1713,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:603" ;
     skos:prefLabel "Achiase"@eng-Latn ;
-    wdata:q7200235 "GH0603" ;
 .
 
 <urn:mdciii:1603:16:288:2:604>
@@ -1901,7 +1721,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:604" ;
     skos:prefLabel "Akwapem North"@eng-Latn ;
-    wdata:q7200235 "GH0604" ;
 .
 
 <urn:mdciii:1603:16:288:2:605>
@@ -1910,7 +1729,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:605" ;
     skos:prefLabel "Akwapem South"@eng-Latn ;
-    wdata:q7200235 "GH0605" ;
 .
 
 <urn:mdciii:1603:16:288:2:606>
@@ -1919,7 +1737,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:606" ;
     skos:prefLabel "Akyem Mansa"@eng-Latn ;
-    wdata:q7200235 "GH0606" ;
 .
 
 <urn:mdciii:1603:16:288:2:607>
@@ -1928,7 +1745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:607" ;
     skos:prefLabel "Asene Akroso Manso"@eng-Latn ;
-    wdata:q7200235 "GH0607" ;
 .
 
 <urn:mdciii:1603:16:288:2:608>
@@ -1937,7 +1753,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:608" ;
     skos:prefLabel "Asuogyaman"@eng-Latn ;
-    wdata:q7200235 "GH0608" ;
 .
 
 <urn:mdciii:1603:16:288:2:609>
@@ -1946,7 +1761,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:609" ;
     skos:prefLabel "Atiwa East"@eng-Latn ;
-    wdata:q7200235 "GH0609" ;
 .
 
 <urn:mdciii:1603:16:288:2:610>
@@ -1955,7 +1769,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:610" ;
     skos:prefLabel "Atiwa West"@eng-Latn ;
-    wdata:q7200235 "GH0610" ;
 .
 
 <urn:mdciii:1603:16:288:2:611>
@@ -1964,7 +1777,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:611" ;
     skos:prefLabel "Ayensuano"@eng-Latn ;
-    wdata:q7200235 "GH0611" ;
 .
 
 <urn:mdciii:1603:16:288:2:612>
@@ -1973,7 +1785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:612" ;
     skos:prefLabel "Birim Central Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0612" ;
 .
 
 <urn:mdciii:1603:16:288:2:613>
@@ -1982,7 +1793,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:613" ;
     skos:prefLabel "Birim North"@eng-Latn ;
-    wdata:q7200235 "GH0613" ;
 .
 
 <urn:mdciii:1603:16:288:2:614>
@@ -1991,7 +1801,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:614" ;
     skos:prefLabel "Birim South"@eng-Latn ;
-    wdata:q7200235 "GH0614" ;
 .
 
 <urn:mdciii:1603:16:288:2:615>
@@ -2000,7 +1809,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:615" ;
     skos:prefLabel "Denkyembour"@eng-Latn ;
-    wdata:q7200235 "GH0615" ;
 .
 
 <urn:mdciii:1603:16:288:2:616>
@@ -2009,7 +1817,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:616" ;
     skos:prefLabel "Fanteakwa North"@eng-Latn ;
-    wdata:q7200235 "GH0616" ;
 .
 
 <urn:mdciii:1603:16:288:2:617>
@@ -2018,7 +1825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:617" ;
     skos:prefLabel "Fanteakwa South"@eng-Latn ;
-    wdata:q7200235 "GH0617" ;
 .
 
 <urn:mdciii:1603:16:288:2:618>
@@ -2027,7 +1833,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:618" ;
     skos:prefLabel "Kwaebibirem"@eng-Latn ;
-    wdata:q7200235 "GH0618" ;
 .
 
 <urn:mdciii:1603:16:288:2:619>
@@ -2036,7 +1841,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:619" ;
     skos:prefLabel "Kwahu Afram Plains North"@eng-Latn ;
-    wdata:q7200235 "GH0619" ;
 .
 
 <urn:mdciii:1603:16:288:2:620>
@@ -2045,7 +1849,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:620" ;
     skos:prefLabel "Kwahu Afram Plains South"@eng-Latn ;
-    wdata:q7200235 "GH0620" ;
 .
 
 <urn:mdciii:1603:16:288:2:621>
@@ -2054,7 +1857,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:621" ;
     skos:prefLabel "Kwahu East"@eng-Latn ;
-    wdata:q7200235 "GH0621" ;
 .
 
 <urn:mdciii:1603:16:288:2:622>
@@ -2063,7 +1865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:622" ;
     skos:prefLabel "Kwahu South"@eng-Latn ;
-    wdata:q7200235 "GH0622" ;
 .
 
 <urn:mdciii:1603:16:288:2:623>
@@ -2072,7 +1873,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:623" ;
     skos:prefLabel "Kwahu West"@eng-Latn ;
-    wdata:q7200235 "GH0623" ;
 .
 
 <urn:mdciii:1603:16:288:2:624>
@@ -2081,7 +1881,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:624" ;
     skos:prefLabel "Lower Manya"@eng-Latn ;
-    wdata:q7200235 "GH0624" ;
 .
 
 <urn:mdciii:1603:16:288:2:625>
@@ -2090,7 +1889,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:625" ;
     skos:prefLabel "New Juaben North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0625" ;
 .
 
 <urn:mdciii:1603:16:288:2:626>
@@ -2099,7 +1897,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:626" ;
     skos:prefLabel "New Juaben South Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0626" ;
 .
 
 <urn:mdciii:1603:16:288:2:627>
@@ -2108,7 +1905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:627" ;
     skos:prefLabel "Nsawam Adoagyiri"@eng-Latn ;
-    wdata:q7200235 "GH0627" ;
 .
 
 <urn:mdciii:1603:16:288:2:628>
@@ -2117,7 +1913,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:628" ;
     skos:prefLabel "Okere"@eng-Latn ;
-    wdata:q7200235 "GH0628" ;
 .
 
 <urn:mdciii:1603:16:288:2:629>
@@ -2126,7 +1921,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:629" ;
     skos:prefLabel "Suhum Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0629" ;
 .
 
 <urn:mdciii:1603:16:288:2:630>
@@ -2135,7 +1929,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:630" ;
     skos:prefLabel "Upper Manya"@eng-Latn ;
-    wdata:q7200235 "GH0630" ;
 .
 
 <urn:mdciii:1603:16:288:2:631>
@@ -2144,7 +1937,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:631" ;
     skos:prefLabel "Upper West Akim"@eng-Latn ;
-    wdata:q7200235 "GH0631" ;
 .
 
 <urn:mdciii:1603:16:288:2:632>
@@ -2153,7 +1945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:632" ;
     skos:prefLabel "West Akim"@eng-Latn ;
-    wdata:q7200235 "GH0632" ;
 .
 
 <urn:mdciii:1603:16:288:2:633>
@@ -2162,7 +1953,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:633" ;
     skos:prefLabel "Yilo Krobo"@eng-Latn ;
-    wdata:q7200235 "GH0633" ;
 .
 
 <urn:mdciii:1603:16:288:2:701>
@@ -2171,7 +1961,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:701" ;
     skos:prefLabel "Ablekuma Central Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0701" ;
 .
 
 <urn:mdciii:1603:16:288:2:702>
@@ -2180,7 +1969,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:702" ;
     skos:prefLabel "Ablekuma North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0702" ;
 .
 
 <urn:mdciii:1603:16:288:2:703>
@@ -2189,7 +1977,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:703" ;
     skos:prefLabel "Ablekuma West Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0703" ;
 .
 
 <urn:mdciii:1603:16:288:2:704>
@@ -2198,7 +1985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:704" ;
     skos:prefLabel "Accra Metropolis"@eng-Latn ;
-    wdata:q7200235 "GH0704" ;
 .
 
 <urn:mdciii:1603:16:288:2:705>
@@ -2207,7 +1993,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:705" ;
     skos:prefLabel "Ada East"@eng-Latn ;
-    wdata:q7200235 "GH0705" ;
 .
 
 <urn:mdciii:1603:16:288:2:706>
@@ -2216,7 +2001,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:706" ;
     skos:prefLabel "Ada West"@eng-Latn ;
-    wdata:q7200235 "GH0706" ;
 .
 
 <urn:mdciii:1603:16:288:2:707>
@@ -2225,7 +2009,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:707" ;
     skos:prefLabel "Adenta Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0707" ;
 .
 
 <urn:mdciii:1603:16:288:2:708>
@@ -2234,7 +2017,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:708" ;
     skos:prefLabel "Ashaiman Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0708" ;
 .
 
 <urn:mdciii:1603:16:288:2:709>
@@ -2243,7 +2025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:709" ;
     skos:prefLabel "Ayawaso Central Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0709" ;
 .
 
 <urn:mdciii:1603:16:288:2:710>
@@ -2252,7 +2033,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:710" ;
     skos:prefLabel "Ayawaso East Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0710" ;
 .
 
 <urn:mdciii:1603:16:288:2:711>
@@ -2261,7 +2041,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:711" ;
     skos:prefLabel "Ayawaso North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0711" ;
 .
 
 <urn:mdciii:1603:16:288:2:712>
@@ -2270,7 +2049,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:712" ;
     skos:prefLabel "Ayawaso West"@eng-Latn ;
-    wdata:q7200235 "GH0712" ;
 .
 
 <urn:mdciii:1603:16:288:2:713>
@@ -2279,7 +2057,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:713" ;
     skos:prefLabel "Ga Central Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0713" ;
 .
 
 <urn:mdciii:1603:16:288:2:714>
@@ -2288,7 +2065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:714" ;
     skos:prefLabel "Ga East"@eng-Latn ;
-    wdata:q7200235 "GH0714" ;
 .
 
 <urn:mdciii:1603:16:288:2:715>
@@ -2297,7 +2073,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:715" ;
     skos:prefLabel "Ga North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0715" ;
 .
 
 <urn:mdciii:1603:16:288:2:716>
@@ -2306,7 +2081,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:716" ;
     skos:prefLabel "Ga South Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0716" ;
 .
 
 <urn:mdciii:1603:16:288:2:717>
@@ -2315,7 +2089,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:717" ;
     skos:prefLabel "Ga West Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0717" ;
 .
 
 <urn:mdciii:1603:16:288:2:718>
@@ -2324,7 +2097,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:718" ;
     skos:prefLabel "Korle Klottey Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0718" ;
 .
 
 <urn:mdciii:1603:16:288:2:719>
@@ -2333,7 +2105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:719" ;
     skos:prefLabel "Kpone Katamanso"@eng-Latn ;
-    wdata:q7200235 "GH0719" ;
 .
 
 <urn:mdciii:1603:16:288:2:720>
@@ -2342,7 +2113,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:720" ;
     skos:prefLabel "Krowor Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0720" ;
 .
 
 <urn:mdciii:1603:16:288:2:721>
@@ -2351,7 +2121,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:721" ;
     skos:prefLabel "La Dade-Kotopon"@eng-Latn ;
-    wdata:q7200235 "GH0721" ;
 .
 
 <urn:mdciii:1603:16:288:2:722>
@@ -2360,7 +2129,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:722" ;
     skos:prefLabel "La-Nkwantanang-Madina"@eng-Latn ;
-    wdata:q7200235 "GH0722" ;
 .
 
 <urn:mdciii:1603:16:288:2:723>
@@ -2369,7 +2137,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:723" ;
     skos:prefLabel "Ledzokuku Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0723" ;
 .
 
 <urn:mdciii:1603:16:288:2:724>
@@ -2378,7 +2145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:724" ;
     skos:prefLabel "Ningo/Prampram"@eng-Latn ;
-    wdata:q7200235 "GH0724" ;
 .
 
 <urn:mdciii:1603:16:288:2:725>
@@ -2387,7 +2153,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:725" ;
     skos:prefLabel "Okaikwei North Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0725" ;
 .
 
 <urn:mdciii:1603:16:288:2:726>
@@ -2396,7 +2161,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:726" ;
     skos:prefLabel "Shai Osudoku"@eng-Latn ;
-    wdata:q7200235 "GH0726" ;
 .
 
 <urn:mdciii:1603:16:288:2:727>
@@ -2405,7 +2169,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:727" ;
     skos:prefLabel "Tema Metropolitan"@eng-Latn ;
-    wdata:q7200235 "GH0727" ;
 .
 
 <urn:mdciii:1603:16:288:2:728>
@@ -2414,7 +2177,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:728" ;
     skos:prefLabel "Tema West Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0728" ;
 .
 
 <urn:mdciii:1603:16:288:2:729>
@@ -2423,7 +2185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:729" ;
     skos:prefLabel "Weija Gbawe Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0729" ;
 .
 
 <urn:mdciii:1603:16:288:2:801>
@@ -2432,7 +2193,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:801" ;
     skos:prefLabel "Gushegu"@eng-Latn ;
-    wdata:q7200235 "GH0801" ;
 .
 
 <urn:mdciii:1603:16:288:2:802>
@@ -2441,7 +2201,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:802" ;
     skos:prefLabel "Karaga"@eng-Latn ;
-    wdata:q7200235 "GH0802" ;
 .
 
 <urn:mdciii:1603:16:288:2:803>
@@ -2450,7 +2209,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:803" ;
     skos:prefLabel "Kpandai"@eng-Latn ;
-    wdata:q7200235 "GH0803" ;
 .
 
 <urn:mdciii:1603:16:288:2:804>
@@ -2459,7 +2217,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:804" ;
     skos:prefLabel "Kumbungu"@eng-Latn ;
-    wdata:q7200235 "GH0804" ;
 .
 
 <urn:mdciii:1603:16:288:2:805>
@@ -2468,7 +2225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:805" ;
     skos:prefLabel "Mion"@eng-Latn ;
-    wdata:q7200235 "GH0805" ;
 .
 
 <urn:mdciii:1603:16:288:2:806>
@@ -2477,7 +2233,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:806" ;
     skos:prefLabel "Nanton"@eng-Latn ;
-    wdata:q7200235 "GH0806" ;
 .
 
 <urn:mdciii:1603:16:288:2:807>
@@ -2486,7 +2241,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:807" ;
     skos:prefLabel "Nanumba North"@eng-Latn ;
-    wdata:q7200235 "GH0807" ;
 .
 
 <urn:mdciii:1603:16:288:2:808>
@@ -2495,7 +2249,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:808" ;
     skos:prefLabel "Nanumba South"@eng-Latn ;
-    wdata:q7200235 "GH0808" ;
 .
 
 <urn:mdciii:1603:16:288:2:809>
@@ -2504,7 +2257,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:809" ;
     skos:prefLabel "Saboba"@eng-Latn ;
-    wdata:q7200235 "GH0809" ;
 .
 
 <urn:mdciii:1603:16:288:2:810>
@@ -2513,7 +2265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:810" ;
     skos:prefLabel "Sagnerigu"@eng-Latn ;
-    wdata:q7200235 "GH0810" ;
 .
 
 <urn:mdciii:1603:16:288:2:811>
@@ -2522,7 +2273,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:811" ;
     skos:prefLabel "Savelugu"@eng-Latn ;
-    wdata:q7200235 "GH0811" ;
 .
 
 <urn:mdciii:1603:16:288:2:812>
@@ -2531,7 +2281,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:812" ;
     skos:prefLabel "Tamale Metropolitan"@eng-Latn ;
-    wdata:q7200235 "GH0812" ;
 .
 
 <urn:mdciii:1603:16:288:2:813>
@@ -2540,7 +2289,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:813" ;
     skos:prefLabel "Tatale Sanguli"@eng-Latn ;
-    wdata:q7200235 "GH0813" ;
 .
 
 <urn:mdciii:1603:16:288:2:814>
@@ -2549,7 +2297,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:814" ;
     skos:prefLabel "Tolon"@eng-Latn ;
-    wdata:q7200235 "GH0814" ;
 .
 
 <urn:mdciii:1603:16:288:2:815>
@@ -2558,7 +2305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:815" ;
     skos:prefLabel "Yendi Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0815" ;
 .
 
 <urn:mdciii:1603:16:288:2:816>
@@ -2567,7 +2313,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:816" ;
     skos:prefLabel "Zabzugu"@eng-Latn ;
-    wdata:q7200235 "GH0816" ;
 .
 
 <urn:mdciii:1603:16:288:2:901>
@@ -2576,7 +2321,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:901" ;
     skos:prefLabel "Bunkpurugu Nakpanduri"@eng-Latn ;
-    wdata:q7200235 "GH0901" ;
 .
 
 <urn:mdciii:1603:16:288:2:902>
@@ -2585,7 +2329,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:902" ;
     skos:prefLabel "Chereponi"@eng-Latn ;
-    wdata:q7200235 "GH0902" ;
 .
 
 <urn:mdciii:1603:16:288:2:903>
@@ -2594,7 +2337,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:903" ;
     skos:prefLabel "East Mamprusi"@eng-Latn ;
-    wdata:q7200235 "GH0903" ;
 .
 
 <urn:mdciii:1603:16:288:2:904>
@@ -2603,7 +2345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:904" ;
     skos:prefLabel "Mamprugu Moagduri"@eng-Latn ;
-    wdata:q7200235 "GH0904" ;
 .
 
 <urn:mdciii:1603:16:288:2:905>
@@ -2612,7 +2353,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:905" ;
     skos:prefLabel "West Mamprusi Municipal"@eng-Latn ;
-    wdata:q7200235 "GH0905" ;
 .
 
 <urn:mdciii:1603:16:288:2:906>
@@ -2621,6 +2361,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:2:906" ;
     skos:prefLabel "Yunyoo-Nasuan"@eng-Latn ;
-    wdata:q7200235 "GH0906" ;
 .
 

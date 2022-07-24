@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Ahafo"@eng-Latn ;
-    wdata:q7200235 "GH01" ;
+    wdata:Q7200235 "GH01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Oti"@eng-Latn ;
-    wdata:q7200235 "GH10" ;
+    wdata:Q7200235 "GH10" ;
 .
 
 <urn:mdciii:1603:16:288:1:11>
@@ -71,7 +71,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Savannah"@eng-Latn ;
-    wdata:q7200235 "GH11" ;
+    wdata:Q7200235 "GH11" ;
 .
 
 <urn:mdciii:1603:16:288:1:12>
@@ -82,7 +82,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Upper East"@eng-Latn ;
-    wdata:q7200235 "GH12" ;
+    wdata:Q7200235 "GH12" ;
 .
 
 <urn:mdciii:1603:16:288:1:13>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Upper West"@eng-Latn ;
-    wdata:q7200235 "GH13" ;
+    wdata:Q7200235 "GH13" ;
 .
 
 <urn:mdciii:1603:16:288:1:14>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Volta"@eng-Latn ;
-    wdata:q7200235 "GH14" ;
+    wdata:Q7200235 "GH14" ;
 .
 
 <urn:mdciii:1603:16:288:1:15>
@@ -115,7 +115,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Western"@eng-Latn ;
-    wdata:q7200235 "GH15" ;
+    wdata:Q7200235 "GH15" ;
 .
 
 <urn:mdciii:1603:16:288:1:16>
@@ -126,7 +126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Western North"@eng-Latn ;
-    wdata:q7200235 "GH16" ;
+    wdata:Q7200235 "GH16" ;
 .
 
 <urn:mdciii:1603:16:288:1:2>
@@ -137,7 +137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Ashanti"@eng-Latn ;
-    wdata:q7200235 "GH02" ;
+    wdata:Q7200235 "GH02" ;
 .
 
 <urn:mdciii:1603:16:288:1:3>
@@ -148,7 +148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Bono"@eng-Latn ;
-    wdata:q7200235 "GH03" ;
+    wdata:Q7200235 "GH03" ;
 .
 
 <urn:mdciii:1603:16:288:1:4>
@@ -159,7 +159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Bono East"@eng-Latn ;
-    wdata:q7200235 "GH04" ;
+    wdata:Q7200235 "GH04" ;
 .
 
 <urn:mdciii:1603:16:288:1:5>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Central"@eng-Latn ;
-    wdata:q7200235 "GH05" ;
+    wdata:Q7200235 "GH05" ;
 .
 
 <urn:mdciii:1603:16:288:1:6>
@@ -181,7 +181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Eastern"@eng-Latn ;
-    wdata:q7200235 "GH06" ;
+    wdata:Q7200235 "GH06" ;
 .
 
 <urn:mdciii:1603:16:288:1:7>
@@ -192,7 +192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Greater Accra"@eng-Latn ;
-    wdata:q7200235 "GH07" ;
+    wdata:Q7200235 "GH07" ;
 .
 
 <urn:mdciii:1603:16:288:1:8>
@@ -203,7 +203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Northern"@eng-Latn ;
-    wdata:q7200235 "GH08" ;
+    wdata:Q7200235 "GH08" ;
 .
 
 <urn:mdciii:1603:16:288:1:9>
@@ -214,6 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:288:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:288:0> ;
     skos:prefLabel "Northern East"@eng-Latn ;
-    wdata:q7200235 "GH09" ;
+    wdata:Q7200235 "GH09" ;
 .
 

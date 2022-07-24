@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:288()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:1" ;
     skos:prefLabel "Ahafo"@eng-Latn ;
-    wdata:q7200235 "GH01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -55,7 +53,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:10" ;
     skos:prefLabel "Oti"@eng-Latn ;
-    wdata:q7200235 "GH10" ;
 .
 
 <urn:mdciii:1603:16:288:1:11>
@@ -64,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:11" ;
     skos:prefLabel "Savannah"@eng-Latn ;
-    wdata:q7200235 "GH11" ;
 .
 
 <urn:mdciii:1603:16:288:1:12>
@@ -73,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:12" ;
     skos:prefLabel "Upper East"@eng-Latn ;
-    wdata:q7200235 "GH12" ;
 .
 
 <urn:mdciii:1603:16:288:1:13>
@@ -82,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:13" ;
     skos:prefLabel "Upper West"@eng-Latn ;
-    wdata:q7200235 "GH13" ;
 .
 
 <urn:mdciii:1603:16:288:1:14>
@@ -91,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:14" ;
     skos:prefLabel "Volta"@eng-Latn ;
-    wdata:q7200235 "GH14" ;
 .
 
 <urn:mdciii:1603:16:288:1:15>
@@ -100,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:15" ;
     skos:prefLabel "Western"@eng-Latn ;
-    wdata:q7200235 "GH15" ;
 .
 
 <urn:mdciii:1603:16:288:1:16>
@@ -109,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:16" ;
     skos:prefLabel "Western North"@eng-Latn ;
-    wdata:q7200235 "GH16" ;
 .
 
 <urn:mdciii:1603:16:288:1:2>
@@ -118,7 +109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:2" ;
     skos:prefLabel "Ashanti"@eng-Latn ;
-    wdata:q7200235 "GH02" ;
 .
 
 <urn:mdciii:1603:16:288:1:3>
@@ -127,7 +117,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:3" ;
     skos:prefLabel "Bono"@eng-Latn ;
-    wdata:q7200235 "GH03" ;
 .
 
 <urn:mdciii:1603:16:288:1:4>
@@ -136,7 +125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:4" ;
     skos:prefLabel "Bono East"@eng-Latn ;
-    wdata:q7200235 "GH04" ;
 .
 
 <urn:mdciii:1603:16:288:1:5>
@@ -145,7 +133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:5" ;
     skos:prefLabel "Central"@eng-Latn ;
-    wdata:q7200235 "GH05" ;
 .
 
 <urn:mdciii:1603:16:288:1:6>
@@ -154,7 +141,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:6" ;
     skos:prefLabel "Eastern"@eng-Latn ;
-    wdata:q7200235 "GH06" ;
 .
 
 <urn:mdciii:1603:16:288:1:7>
@@ -163,7 +149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:7" ;
     skos:prefLabel "Greater Accra"@eng-Latn ;
-    wdata:q7200235 "GH07" ;
 .
 
 <urn:mdciii:1603:16:288:1:8>
@@ -172,7 +157,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:8" ;
     skos:prefLabel "Northern"@eng-Latn ;
-    wdata:q7200235 "GH08" ;
 .
 
 <urn:mdciii:1603:16:288:1:9>
@@ -181,6 +165,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:288:1:9" ;
     skos:prefLabel "Northern East"@eng-Latn ;
-    wdata:q7200235 "GH09" ;
 .
 
